@@ -8,8 +8,9 @@ Hey there!
 
 ### I'm Xander Treat, a Fullstack Software Engineer from Arizona 🇺🇸
 
-Currently I'm in school at Arizona State University (Polytechnic Campus) finishing\
-a Bachelors of Science in Software Engineering with a current GPA of 4.0+
+Currently I'm in school at Arizona State University (Polytechnic Campus) finishing a\
+Bachelors of Science in Software Engineering with a current GPA of 4.0+\
+Class of 2025.
 
 **Software can be developed by anyone these days, but having GOOD software is priceless and always worth it.**
 
