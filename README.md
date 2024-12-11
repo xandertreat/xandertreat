@@ -105,13 +105,12 @@ Here are some of my personal projects:
 
 - Implemented and maintained a plugin leveraging LUA and a limited API that significantly changes and improves gameplay on a multi-platform game with hundreds of thousands of players, seen by thousands of players
 - Developed an autonomous maze navigation protocol for an EV3 Robot in a team environment using various hardware sensors and a limited API / testing environment
-- Developed a Java-based color palette generator, that provides users a large color palette full of colors that aesthetically go together utilizing color science
-- Developed a python web scraper program which scrapes pricing and market data from a digital market aggregator, performing and presenting data analysis on said data
-- Developed various complex games in Roblox, GODOT, and Unity
+- Developed a Java-based color palette generator, that provides users a large color palette full of colors that aesthetically go together based on color science
+- Developed a python web scraper which scrapes pricing and market data from a digital market aggregator then presents data and statistical analysis
+- Developed various complex 2D/3D games in Roblox, GODOT, and Unity
 - Developed a C program utilizing raylib for user interface to act as a server manager program for a popular game with millions of players
 
-
-### September 2024 -> Now
+### September 2024 -> May 2025
 
 Creating a full-stack web application that serves thousands of Canadian business owners.\
 The application employs a hybrid approach, combining static server-side rendering, partial hydration, and a single-page application (SPA) dashboard for heavy data management and analytics. This customizable dashboard empowers users to manage their data effectively.
