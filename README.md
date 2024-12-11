@@ -66,6 +66,9 @@ Regardless of the problem you will likely find me having experience that could h
 ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![D3.js](https://img.shields.io/badge/D3.js-F9A03C.svg?style=for-the-badge&logo=d3dotjs&logoColor=white)
+![Motion](https://img.shields.io/badge/Motion-yellow.svg?style=for-the-badge&logo=framer&logoColor=white)
+![Auth.js](https://img.shields.io/badge/Auth.js-blue.svg?&style=for-the-badge)
+![Drizzle ORM](https://img.shields.io/badge/Drizzle-%2357A143.svg?&style=for-the-badge&logo=drizzle&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
 #### Tools
