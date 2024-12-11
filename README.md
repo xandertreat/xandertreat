@@ -118,7 +118,10 @@ Creating a full-stack web application that serves thousands of Canadian business
 The application employs a hybrid approach, combining static server-side rendering, partial hydration, and a single-page application (SPA) dashboard for heavy data management and analytics. This customizable dashboard empowers users to manage their data effectively.
 Some of the technologies being utilized include Vite, React, TailwindCSS, DaisyUI, drizzle ORM, SQLite, Auth.js, Motion, D3.js and more 
 
-## Contact / Socials
+## Connect with me
+
+Never be afraid to contact me! \
+I am always available :smiley:
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xander-treat-28028433b/)
 [![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:xandertreat@proton.me)
