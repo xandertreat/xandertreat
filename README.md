@@ -69,7 +69,6 @@ Regardless of the problem you will likely find me having experience that could h
 ![Motion](https://img.shields.io/badge/Motion-yellow.svg?style=for-the-badge&logo=framer&logoColor=white)
 ![Auth.js](https://img.shields.io/badge/Auth.js-blue.svg?&style=for-the-badge)
 ![Drizzle ORM](https://img.shields.io/badge/Drizzle-%2357A143.svg?&style=for-the-badge&logo=drizzle&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
 #### Tools
 
