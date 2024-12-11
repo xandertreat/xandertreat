@@ -58,6 +58,8 @@ Regardless of the problem you will likely find me having experience that could h
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Preact](https://img.shields.io/badge/preact-%2320232a.svg?style=for-the-badge&logo=preact&logoColor=673AB8)
+![FastHTML](https://img.shields.io/badge/FastHTML-blue.svg?style=for-the-badge)
+![htmx](https://img.shields.io/badge/htmx-white.svg?style=for-the-badge&logo=htmx&logoColor=blue)
 
 #### Libraries
 
