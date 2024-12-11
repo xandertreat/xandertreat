@@ -110,7 +110,7 @@ Here are some of my personal projects:
 - Developed various complex 2D/3D games in Roblox, GODOT, and Unity
 - Developed a C program utilizing raylib for user interface to act as a server manager program for a popular game with millions of players
 
-### September 2024 -> May 2025
+### September 2024 - May 2025
 
 Creating a full-stack web application that serves thousands of Canadian business owners.\
 The application employs a hybrid approach, combining static server-side rendering, partial hydration, and a single-page application (SPA) dashboard for heavy data management and analytics. This customizable dashboard empowers users to manage their data effectively.
