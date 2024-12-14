@@ -8,8 +8,6 @@ Hey there!
 
 ### I'm Xander Treat, a Fullstack Software Engineer from Arizona 🇺🇸
 
-**Good software is priceless.**
-
 Bachelors of Science in Software Engineering (GPA: 4.0)\
 Class of 2025 ASU Polytechnic.
 
