@@ -8,7 +8,7 @@ Hey there!
 
 ### I'm Xander Treat, a Fullstack Software Engineer from Arizona 🇺🇸
 
-**Software can be developed by anyone these days, but GOOD software is priceless.**
+**Good software is priceless.**
 
 Bachelors of Science in Software Engineering (GPA: 4.0)\
 Class of 2025 ASU Polytechnic.
@@ -103,20 +103,35 @@ Here are some of my personal projects:
 
 ## Experience
 
-### Until now
+### Until Now
+● Implemented and maintained a plugin leveraging LUA and a limited API that
+significantly changes and improves gameplay on a multi-platform game with hundreds of
+thousands of players, seen by thousands of players\
+● Developed an autonomous maze navigation protocol for an EV3 Robot in a team
+environment using various hardware sensors and a limited testing environment & API
+utilizing MATLAB functional mathematical programming language\
+● Developed a Java-based color palette generator, that provides users a large color palette
+full of colors that aesthetically go together based on color science\
+● Developed a python web scraper which scrapes pricing and market data from a digital
+market aggregator then presents data and statistical analysis\
+● Developed various complex 2D/3D games in Roblox, GODOT, and Unity\
+● Developed a C program utilizing raylib as user interface to manage client game server
+deployments\
+● Worked in Agile Scrum team environments multiple times, managing projects,
+organizing, and using continuous integration and strategies for version control, deploying
 
-- Implemented and maintained a plugin leveraging LUA and a limited API that significantly changes and improves gameplay on a multi-platform game with hundreds of thousands of players, seen by thousands of players
-- Developed an autonomous maze navigation protocol for an EV3 Robot in a team environment using various hardware sensors and a limited API / testing environment
-- Developed a Java-based color palette generator, that provides users a large color palette full of colors that aesthetically go together based on color science
-- Developed a python web scraper which scrapes pricing and market data from a digital market aggregator then presents data and statistical analysis
-- Developed various complex 2D/3D games in Roblox, GODOT, and Unity
-- Developed a C program utilizing raylib for user interface to act as a server manager program for a popular game with millions of players
-
+### December 2024
+Developed free and open-source NPM package that utilized TypeScript to deliver a typesafe
+Astro component that makes API requests and delivers inline SVG for icons, 800+ downloads in
+its first week
+.
 ### September 2024 - May 2025
-
-Creating a full-stack web application that serves thousands of Canadian business owners.\
-The application employs a hybrid approach, combining static server-side rendering, partial hydration, and a single-page application (SPA) dashboard for heavy data management and analytics. This customizable dashboard empowers users to manage their data effectively.
-Some of the technologies being utilized include Vite, React, TailwindCSS, DaisyUI, drizzle ORM, SQLite, Auth.js, Motion, D3.js and more 
+Creating a full-stack web application that will serve many Canadian business owners.
+The application employs a hybrid approach, combining static server-side rendering, partial
+hydration, and a single-page application (SPA) dashboard for heavy data management and
+analytics. This customizable dashboard empowers users to manage their data effectively. Some
+of the technologies being utilized include Vite, React, TailwindCSS, DaisyUI, drizzle ORM,
+SQLite, Auth.js, Motion, D3.js and more
 
 ## Connect with me
 
