@@ -93,38 +93,6 @@ Here are some of my personal projects:
 | Astro Iconify 🌐| [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/xandertreat/astro-iconify) | [![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/package/@xtreat/astro-iconify) | An extensible type-safe Iconify component wrapper for Astro | ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 | Personal Website 🌐| [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/xandertreat/website) | <center>❌</center> | My personal website | ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-## Experience
-
-### Until Now
-● Implemented and maintained a plugin leveraging LUA and a limited API that
-significantly changes and improves gameplay on a multi-platform game with hundreds of
-thousands of players, seen by thousands of players\
-● Developed an autonomous maze navigation protocol for an EV3 Robot in a team
-environment using various hardware sensors and a limited testing environment & API
-utilizing MATLAB functional mathematical programming language\
-● Developed a Java-based color palette generator, that provides users a large color palette
-full of colors that aesthetically go together based on color science\
-● Developed a python web scraper which scrapes pricing and market data from a digital
-market aggregator then presents data and statistical analysis\
-● Developed various complex 2D/3D games in Roblox, GODOT, and Unity\
-● Developed a C program utilizing raylib as user interface to manage client game server
-deployments\
-● Worked in Agile Scrum team environments multiple times, managing projects,
-organizing, and using continuous integration and strategies for version control, deploying
-
-### December 2024
-Developed free and open-source NPM package that utilized TypeScript to deliver a typesafe
-Astro component that makes API requests and delivers inline SVG for icons, 800+ downloads in
-its first week
-.
-### September 2024 - May 2025
-Creating a full-stack web application that will serve many Canadian business owners.
-The application employs a hybrid approach, combining static server-side rendering, partial
-hydration, and a single-page application (SPA) dashboard for heavy data management and
-analytics. This customizable dashboard empowers users to manage their data effectively. Some
-of the technologies being utilized include Vite, React, TailwindCSS, DaisyUI, drizzle ORM,
-SQLite, Auth.js, Motion, D3.js and more
-
 ## Connect with me
 
 Never be afraid to contact me! \
