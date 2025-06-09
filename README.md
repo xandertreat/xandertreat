@@ -25,16 +25,18 @@ Check out my pinned repositories and explore more projects on my [GitHub profile
 
 ## 🧑‍💻 About Me
 
-- 🌎 Based in Arizona, USA 🇺🇸
-- 💡 Learning new and cool stuff in development
-- 🏆 Currently working on fullstack projects
+<ul style="list-style: none; padding: 0;">
+  <li>🌎 Based in Arizona, USA 🇺🇸</li>
+  <li>💡 Learning new and cool stuff in development</li>
+  <li>🏆 Currently working on fullstack projects</li>
+</ul>
 
 <div align="center">
 
-> ![stats](https://raw.githubusercontent.com/xandertreat/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-> ![stats](https://raw.githubusercontent.com/xandertreat/github-stats/master/generated/overview.svg#gh-light-mode-only)
-> ![languages](https://raw.githubusercontent.com/xandertreat/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-> ![languages](https://raw.githubusercontent.com/xandertreat/github-stats/master/generated/languages.svg#gh-light-mode-only)
+> <img src="https://raw.githubusercontent.com/xandertreat/github-stats/master/generated/overview.svg#gh-dark-mode-only" alt="stats" />
+> <img src="https://raw.githubusercontent.com/xandertreat/github-stats/master/generated/overview.svg#gh-light-mode-only" alt="stats" />
+> <img src="https://raw.githubusercontent.com/xandertreat/github-stats/master/generated/languages.svg#gh-dark-mode-only" alt="languages" />
+> <img src="https://raw.githubusercontent.com/xandertreat/github-stats/master/generated/languages.svg#gh-light-mode-only" alt="languages" />
 
 </div>
 
