@@ -25,11 +25,13 @@ Check out my pinned repositories and explore more projects on my [GitHub profile
 
 ## 🧑‍💻 About Me
 
-<ul style="list-style: none; padding: 0;">
-  <li>🌎 Based in Arizona, USA 🇺🇸</li>
-  <li>💡 Learning new and cool stuff in development</li>
-  <li>🏆 Currently working on fullstack projects</li>
-</ul>
+<div id="user-content-toc">
+  <ul>
+    <li>🌎 Based in Arizona, USA 🇺🇸</li>
+    <li>💡 Learning new and cool stuff in development</li>
+    <li>🏆 Currently working on fullstack projects</li>
+  </ul>
+</div>
 
 <div align="center">
 
