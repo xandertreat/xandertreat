@@ -56,8 +56,6 @@ Check out my pinned repositories and explore more projects on my [GitHub profile
 
 <p>Thanks for visiting my profile! 😊</p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=xandertreat&style=for-the-badge&color=181717" alt="Profile views" />
-</p>
+<img src="https://komarev.com/ghpvc/?username=xandertreat&style=for-the-badge&color=181717" alt="Profile views" />
 
 </div>
